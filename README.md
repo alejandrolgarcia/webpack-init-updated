@@ -21,7 +21,7 @@ npm start
 ```
 
 ### Referencias y documentación
-[Webpack](https://webpack.js.org/concepts/)
-[Babel](https://babeljs.io/)
+* [Webpack](https://webpack.js.org/concepts/)
+* [Babel](https://babeljs.io/)
 
 # webpack-init-updated
